@@ -14,6 +14,7 @@
 		6E413DC727FC8A470087D2B2 /* TouchdownTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E413DC627FC8A470087D2B2 /* TouchdownTests.swift */; };
 		6E413DD127FC8A470087D2B2 /* TouchdownUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E413DD027FC8A470087D2B2 /* TouchdownUITests.swift */; };
 		6E413DD327FC8A470087D2B2 /* TouchdownUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E413DD227FC8A470087D2B2 /* TouchdownUITestsLaunchTests.swift */; };
+		6E413DE027FC8AE20087D2B2 /* Data in Resources */ = {isa = PBXBuildFile; fileRef = 6E413DDF27FC8AE20087D2B2 /* Data */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		6E413DCC27FC8A470087D2B2 /* TouchdownUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TouchdownUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6E413DD027FC8A470087D2B2 /* TouchdownUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TouchdownUITests.swift; sourceTree = "<group>"; };
 		6E413DD227FC8A470087D2B2 /* TouchdownUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TouchdownUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		6E413DDF27FC8AE20087D2B2 /* Data */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Data; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +96,7 @@
 		6E413DB427FC8A440087D2B2 /* Touchdown */ = {
 			isa = PBXGroup;
 			children = (
+				6E413DDF27FC8AE20087D2B2 /* Data */,
 				6E413DB527FC8A440087D2B2 /* TouchdownApp.swift */,
 				6E413DB727FC8A440087D2B2 /* ContentView.swift */,
 				6E413DB927FC8A470087D2B2 /* Assets.xcassets */,
@@ -233,6 +236,7 @@
 			files = (
 				6E413DBD27FC8A470087D2B2 /* Preview Assets.xcassets in Resources */,
 				6E413DBA27FC8A470087D2B2 /* Assets.xcassets in Resources */,
+				6E413DE027FC8AE20087D2B2 /* Data in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
