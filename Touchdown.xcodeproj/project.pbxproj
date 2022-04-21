@@ -19,6 +19,10 @@
 		6E9022472811956A00C985E5 /* FooterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E9022462811956A00C985E5 /* FooterView.swift */; };
 		6E9022492811989600C985E5 /* NavigationBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E9022482811989600C985E5 /* NavigationBarView.swift */; };
 		6E90224B28119A0C00C985E5 /* LogoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E90224A28119A0C00C985E5 /* LogoView.swift */; };
+		6E90224D2811D83900C985E5 /* PlayerModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E90224C2811D83900C985E5 /* PlayerModel.swift */; };
+		6E90224F2811D88B00C985E5 /* BrandModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E90224E2811D88B00C985E5 /* BrandModel.swift */; };
+		6E9022512811D8A100C985E5 /* CategoryModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E9022502811D8A100C985E5 /* CategoryModel.swift */; };
+		6E9022532811D90700C985E5 /* ProductModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E9022522811D90700C985E5 /* ProductModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +59,10 @@
 		6E9022462811956A00C985E5 /* FooterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FooterView.swift; sourceTree = "<group>"; };
 		6E9022482811989600C985E5 /* NavigationBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationBarView.swift; sourceTree = "<group>"; };
 		6E90224A28119A0C00C985E5 /* LogoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogoView.swift; sourceTree = "<group>"; };
+		6E90224C2811D83900C985E5 /* PlayerModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerModel.swift; sourceTree = "<group>"; };
+		6E90224E2811D88B00C985E5 /* BrandModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrandModel.swift; sourceTree = "<group>"; };
+		6E9022502811D8A100C985E5 /* CategoryModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryModel.swift; sourceTree = "<group>"; };
+		6E9022522811D90700C985E5 /* ProductModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -172,6 +180,10 @@
 		6E9022402811940E00C985E5 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				6E90224C2811D83900C985E5 /* PlayerModel.swift */,
+				6E90224E2811D88B00C985E5 /* BrandModel.swift */,
+				6E9022502811D8A100C985E5 /* CategoryModel.swift */,
+				6E9022522811D90700C985E5 /* ProductModel.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -334,9 +346,13 @@
 				6E413DB827FC8A440087D2B2 /* ContentView.swift in Sources */,
 				6E90224B28119A0C00C985E5 /* LogoView.swift in Sources */,
 				6E9022472811956A00C985E5 /* FooterView.swift in Sources */,
+				6E90224F2811D88B00C985E5 /* BrandModel.swift in Sources */,
 				6E413DB627FC8A440087D2B2 /* TouchdownApp.swift in Sources */,
 				6E9022452811947C00C985E5 /* Constant.swift in Sources */,
 				6E9022492811989600C985E5 /* NavigationBarView.swift in Sources */,
+				6E9022512811D8A100C985E5 /* CategoryModel.swift in Sources */,
+				6E90224D2811D83900C985E5 /* PlayerModel.swift in Sources */,
+				6E9022532811D90700C985E5 /* ProductModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
