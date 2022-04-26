@@ -9,7 +9,7 @@ Devices : iPhone/iPad
 # SwiftUI
 Using SwiftUI Framework 
 
-# Availability
+# Availability for
                iOS 13.0+
                iPadOS 13.0+
                macOS 10.15+
